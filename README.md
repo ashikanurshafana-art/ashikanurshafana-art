@@ -2,7 +2,7 @@
 
 🖧   Beginner Developer  
 </>  Currently learning Web Development & Python  
-⚛ Passionate about coding & creativity ᶻ 𝗓 𐰁
+🖳   Passionate about coding & creativity ᶻ 𝗓 𐰁
 ---
 
 ### 👾 Skills
