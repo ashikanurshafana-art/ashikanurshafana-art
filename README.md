@@ -3,6 +3,9 @@
 🖧   Beginner Developer  
 </>  Currently learning Web Development & Python  
 🖳   Passionate about coding & creativity ᶻ 𝗓 𐰁
+<p align="center">
+  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R6b2lobnVzZThwaXMxNDN6aHM3eXZ4cjlneDR5d29kMHo3dGNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif](https://pin.it/5IzAbWunh)" width="800"/>
+</p>
 ---
 
 ### 👾 Skills
