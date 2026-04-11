@@ -12,9 +12,9 @@
 ### <h2 align="center">👾 Skills</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF8C8C?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-8CAFFF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFE28A?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-b0c4de?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-fffacd?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
 ---
@@ -27,10 +27,18 @@
 </p>
 
 <p align="center">────────────୨ৎ────────────</p>
+
 ---
 
-### Quote ── .✦
-_"if everything around you feels dark, look again, you might be the light"_
+### <h2 align="center">Quote ── .✦</h2>
+
+<p align="center">
+  <em>If everything around you feels dark,<br>
+  don't be afraid… you might be the light.</em> ✨
+</p>
+
+<p align="center">────────── ✦ ──────────</p>
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R6b2lobnVzZThwaXMxNDN6aHM3eXZ4cjlneDR5d29kMHo3dGNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="500"/>
 </p>
