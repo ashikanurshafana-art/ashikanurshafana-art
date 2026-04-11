@@ -6,22 +6,27 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/ad/bd/0b/adbd0b97c09a09f31f3092855cac1214.gif" width="700"/>
 </p>
+
 ---
 
-### 👾 Skills
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+### <h2 align="center">👾 Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FF8C8C?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-8CAFFF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFE28A?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
 ---
 
-### ☎︎ Connect with me
-- ᯓ➤ Instagram: https://www.instagram.com/aiiwaay
-- ᯓ➤ Email: ashikanurshafana@gmail.com
-- 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀
+### <h2 align="center">☎︎ Connect with Me</h2>
 
+<p align="center">
+ᯓ➤ <a href="https://www.instagram.com/aiiwaay">Instagram</a><br>
+ᯓ➤ <a href="mailto:ashikanurshafana@gmail.com">Email</a>
+</p>
+
+<p align="center">────────────୨ৎ────────────</p>
 ---
 
 ### Quote ── .✦
