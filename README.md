@@ -1,10 +1,10 @@
 ## I'm Ashika 𐔌՞. .՞𐦯
-<h2 align="center">🖧 Beginner Developer</h2>
-<h3 align="center">💻 Learning Web Development & Python</h3>
-<h4 align="center">✨ Passionate about coding & creativity ᶻ 𝗓 𐰁</h4>
+<h2 align="center">ᯤ Beginner Developer</h2>
+<h3 align="center"> </> Learning Web Development & Python</h3>
+<h4 align="center"> { } Passionate about coding & creativity ᶻ 𝗓 𐰁</h4>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R6b2lobnVzZThwaXMxNDN6aHM3eXZ4cjlneDR5d29kMHo3dGNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="700"/>
+  <img src="https://i.pinimg.com/originals/ad/bd/0b/adbd0b97c09a09f31f3092855cac1214.gif" width="700"/>
 </p>
 ---
 
