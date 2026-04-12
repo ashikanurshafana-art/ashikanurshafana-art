@@ -1,7 +1,10 @@
 ## <p align="center">
-  <img src="https://i.pinimg.com/736x/27/c2/3b/27c23b5d980795d2773823c7a834c2f3.jpg" width="45%"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=89CFF0&center=true&vCenter=true&width=400&lines=I'm+Ashika+₍^. .^₎Ⳋ;coding+little+things+with+big+dreams.ᐟ;welcome+to+my+little+world+💻☁️" width="50%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=220&section=header&text=I'm%20Ashika%20₍^. .^₎Ⳋ&fontColor=ffffff&fontSize=32&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=coding+little+things+with+big+dreams.ᐟ;learning+and+growing+everyday+☁️;welcome+to+my+github+world+💻💙" />
 </p>
 <h2 align="center">ᯤ Beginner Developer</h2>
 <h3 align="center"> < / > Learning Web Development & Python</h3>
