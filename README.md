@@ -1,9 +1,10 @@
 ## <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=220&section=header&text=I'm%20Ashika&fontColor=ffffff&fontSize=35&animation=twinkling&fontAlignY=35&desc=%E2%82%8D%5E.%20.%5E%E2%82%8E%E2%B3%8A&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B263B&height=220&section=header&text=I'm%20Ashika&fontColor=778DA9&fontSize=35&animation=twinkling&fontAlignY=35&desc=%E2%82%8D%5E.%20.%5E%E2%82%8E%E2%B3%8A&descAlignY=60&descSize=20&descColor=415A77"/>
 </p>
+
 <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=coding+little+things+with+big+dreams.ᐟ;learning+and+growing+everyday+☁️;welcome+to+my+github+world+💻💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=778DA9&center=true&vCenter=true&width=500&lines=coding+little+things+with+big+dreams.ᐟ;learning+and+growing+everyday+☁️;welcome+to+my+github+world+💻💙" />
 </p>
 <h2 align="center">ᯤ Beginner Developer</h2>
 <h3 align="center"> < / > Learning Web Development & Python</h3>
