@@ -1,5 +1,10 @@
-## I'm Ashika ₍^. .^₎Ⳋ
-coding little things with big dreams.ᐟ
+## <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=header&text=I'm%20Ashika%20₍^. .^₎Ⳋ&fontColor=ffffff&fontSize=28&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=coding+little+things+with+big+dreams.ᐟ" />
+</p>
 <h2 align="center">ᯤ Beginner Developer</h2>
 <h3 align="center"> < / > Learning Web Development & Python</h3>
 <h4 align="center"> { } Passionate about coding & creativity ᶻ 𝗓 𐰁</h4>
