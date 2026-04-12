@@ -1,7 +1,7 @@
 ## I'm Ashika ₍^. .^₎Ⳋ
 coding little things with big dreams.ᐟ
 <h2 align="center">ᯤ Beginner Developer</h2>
-<h3 align="center"> </> Learning Web Development & Python</h3>
+<h3 align="center"> < / > Learning Web Development & Python</h3>
 <h4 align="center"> { } Passionate about coding & creativity ᶻ 𝗓 𐰁</h4>
 
 <p align="center">
