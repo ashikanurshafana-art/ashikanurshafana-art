@@ -1,7 +1,10 @@
 ## <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=220&section=header&text=I'm%20Ashika%20₍^. .^₎Ⳋ&fontColor=ffffff&fontSize=32&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=220&section=header&text=I'm%20Ashika&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  ₍^. .^₎Ⳋ
+</p>
 <!-- Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=coding+little+things+with+big+dreams.ᐟ;learning+and+growing+everyday+☁️;welcome+to+my+github+world+💻💙" />
